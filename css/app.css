@@ -1,5 +1,5 @@
 /* Account for styles not carried over by Canvas to the Mobile App*/
-@import url(https://files.ciditools.com/fontawesome-5.15.4/css/all.min.css);
+@import url(https://raw.githubusercontent.com/vikaschauhan3/canvas/main/css/ext/fontawesome-5.15.4-all.min.css); /* original url (https://files.ciditools.com/fontawesome-5.15.4/css/all.min.css) */
 @import url(canvas-icons/canvas-icons2.css);
 @import url(app_canvas_styles.css);
 @import url(../ext/themes-payload.css);
