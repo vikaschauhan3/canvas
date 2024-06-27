@@ -13,10 +13,10 @@
 
 /*** New Sidebar ***/
 /* For Main CSS files */
-@import url(https://designplus.ciditools.com/css/content.css);
-@import url(https://designplus.ciditools.com/css/editor.css);
+@import url(https://raw.githubusercontent.com/vikaschauhan3/canvas/main/css/content.css); /* original url https://designplus.ciditools.com/css/content.css */
+@import url(https://raw.githubusercontent.com/vikaschauhan3/canvas/main/css/editor.css); /* original url https://designplus.ciditools.com/css/editor.css */
 /* For Mobile app CSS file */
-/*@import url(https://designplus.ciditools.com/css/mobile.css);*/
+/*@import url(https://raw.githubusercontent.com/vikaschauhan3/canvas/main/css/mobile.css); original url https://designplus.ciditools.com/css/mobile.css */
 
 :root {
     --dt-color-primary: #006881;
